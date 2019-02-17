@@ -10,7 +10,7 @@ namespace CSharpCore.Interview_Program
     {
          public static void Main(string[] args)
         {
-            Program Puzzler = null;
+            Program18 Puzzler = null;
             Console.WriteLine(Program18.get());
         }
         private static String get()
